@@ -1,5 +1,5 @@
 <h1>React Fast React Pizza Co🍕</h1>
-
+<h2>⏳ Projeto ainda em construção...</h2>
 <h3>🎯 Requisitos</h3>
 <ol>
     <li>Aplicativo muito simples, onde os usuários podem fazer pedidos de uma ou mais pizzas de um menu;</li>
