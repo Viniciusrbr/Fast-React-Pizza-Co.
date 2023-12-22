@@ -53,7 +53,7 @@ function Order() {
 
       <ul className="dive-stone-200 divide-y border-b border-t">
         {cart.map((item) => (
-          <OrderItem item={item} key={item.id} />
+          <OrderItem item={item} key={item.pizzaId} />
         ))}
       </ul>
 
@@ -63,7 +63,7 @@ function Order() {
         </p>
         {priority && (
           <p className="text-sm font-medium text-stone-600">
-            Valor da prioridade: {formatCurrency(priorityPrice)}
+            Acréscimo por prioridade: {formatCurrency(priorityPrice)}
           </p>
         )}
         <p className="font-bold">
