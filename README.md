@@ -1,5 +1,9 @@
 <h1>React Fast React Pizza Co🍕</h1>
-<h2>⏳ Projeto ainda em construção...</h2>
+<p>😁Esse é um projeto de um app fictício de pedir pizzas de um restaurante, usei ele para praticar minhas habilidades em React com Redux e Tailwind.
+Todos os detalhes sobre estão descritos abaixo.</p>
+
+##
+
 <h3>🎯 Requisitos</h3>
 <ol>
     <li>Aplicativo muito simples, onde os usuários podem fazer pedidos de uma ou mais pizzas de um menu;</li>
