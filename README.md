@@ -1,6 +1,7 @@
 <h1>React Fast React Pizza Co🍕</h1>
-<p>😁Esse é um projeto de um app fictício de pedir pizzas de um restaurante, usei ele para praticar minhas habilidades em React com Redux e Tailwind.
+<p>😁 Esse é um projeto de um app fictício de pedir pizzas de um restaurante, usei ele para praticar minhas habilidades em React com Redux e Tailwind.
 Todos os detalhes sobre estão descritos abaixo.</p>
+<p>👉🏻 Você pode ver o projeto rodando <a href="https://fastreactpizza-app.netlify.app/" target="_blank" rel="noopener noreferrer">clicando aqui</a>.</p>
 
 ##
 
